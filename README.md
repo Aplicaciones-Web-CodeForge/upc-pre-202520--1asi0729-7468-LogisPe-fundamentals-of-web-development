@@ -55,7 +55,7 @@ Al finalizar este curso serás capaz de:
 
 ---
 
-### Lección 4: Introducción a CSS (12 minutos)
+### Lección 4: Introducción a CSS (8 minutos)
 
 - **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=CGjju5cLUCU)
