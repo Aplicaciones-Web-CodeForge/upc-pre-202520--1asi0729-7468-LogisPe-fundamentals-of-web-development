@@ -76,7 +76,7 @@ Al finalizar este curso serás capaz de:
 ### Lección 6: Consejos y Próximos Pasos (10 minutos)
 
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
-- **Enlace**: [Ver Lección]([https://youtu.be/kIgfdTZ77V0)
+- **Enlace**: [Ver Lección](https://youtu.be/kIgfdTZ77V0)
 - **Consejos Clave**: Valida el código, explora la Documentación Web de MDN.
 - **Comparte tu Trabajo**: [Envía tu Creación](https://forms.gle/your-form)
 
