@@ -58,7 +58,7 @@ Al finalizar este curso serás capaz de:
 ### Lección 4: Introducción a CSS (12 minutos)
 
 - **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
-- **Enlace**: [Ver la lección]()
+- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=CGjju5cLUCU)
 - **Consejos clave**: Vincular CSS, usar selectores como `body { background-color: blue; }`.
 - **Práctica**: [Aplicar estilo con un clic](https://codepen.io/your-css-pen) 👈 **¡No es necesario registrarse!**
 
