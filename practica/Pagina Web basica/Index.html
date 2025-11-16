@@ -1,69 +1,42 @@
-/* Estilos con buena combinación de colores */
-body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
-    background-color: #ecf0f1;
-    color: #2c3e50;
-}
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Sitio Web - Buenas Prácticas</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Mi Sitio Web</h1>
+        <nav>
+            <ul>
+                <li><a href="#inicio">Inicio</a></li>
+                <li><a href="#servicios">Servicios</a></li>
+                <li><a href="#contacto">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
 
-header {
-    background-color: #34495e;
-    color: white;
-    padding: 1rem 0;
-    text-align: center;
-}
+    <main>
+        <section id="inicio">
+            <h2>Bienvenido</h2>
+            <p>Este sitio aplica buenas prácticas de desarrollo web.</p>
+        </section>
 
-nav ul {
-    list-style: none;
-    padding: 0;
-    display: flex;
-    justify-content: center;
-    gap: 2rem;
-    margin: 1rem 0 0 0;
-}
+        <section id="servicios">
+            <h2>Nuestros Servicios</h2>
+            <ul>
+                <li>Diseño Web</li>
+                <li>Desarrollo Frontend</li>
+                <li>Optimización CSS</li>
+            </ul>
+        </section>
+    </main>
 
-nav a {
-    color: white;
-    text-decoration: none;
-    padding: 0.5rem 1rem;
-    border-radius: 4px;
-}
-
-nav a:hover {
-    background-color: #46627f;
-}
-
-main {
-    max-width: 800px;
-    margin: 2rem auto;
-    padding: 0 1rem;
-}
-
-section {
-    margin-bottom: 2rem;
-    padding: 2rem;
-    background-color: white;
-    border-radius: 8px;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-}
-
-h1 {
-    margin: 0;
-    color: white;
-}
-
-h2 {
-    color: #2c3e50;
-    border-bottom: 2px solid #3498db;
-    padding-bottom: 0.5rem;
-}
-
-footer {
-    background-color: #2c3e50;
-    color: white;
-    text-align: center;
-    padding: 2rem;
-    margin-top: 3rem;
-}
+    <footer id="contacto">
+        <p>Email: contacto@misitio.com</p>
+        <p>Teléfono: +123456789</p>
+    </footer>
+</body>
+</html>
