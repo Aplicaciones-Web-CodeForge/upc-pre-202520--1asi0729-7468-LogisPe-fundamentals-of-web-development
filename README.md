@@ -31,7 +31,7 @@ Al finalizar este curso serás capaz de:
 ### Lección 1: ¿Qué es el desarrollo web? (5 minutos)
 
 - **Descripción**: Aprende de qué están hechos los sitios web y por qué HTML y CSS son los componentes básicos.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link1)
+- **Enlace**: [Ver la lección]()
 - **Consejos clave**: Sitios web = Contenido (HTML) + Estilo (CSS).
 - **Empieza a programar**: [Open CodePen](https://codepen.io/pen/?template=your-starter)
 
@@ -49,7 +49,7 @@ Al finalizar este curso serás capaz de:
 ### Lección 3: Añadir más elementos HTML (8 minutos)
 
 - **Descripción**: Agrega listas, imágenes y enlaces para que tu página sea interactiva.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link3)
+- **Enlace**: [Ver la lección]()
 - **Consejos clave**: Usa las etiquetas `<ul>`, `<img>`, `<a>`.
 - **Práctica**: [Clic para programar](https://jsfiddle.net/your-fiddle-id) 👈 **¡Comienza al instante!**
 
@@ -58,7 +58,7 @@ Al finalizar este curso serás capaz de:
 ### Lección 4: Introducción a CSS (12 minutos)
 
 - **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link4)
+- **Enlace**: [Ver la lección]()
 - **Consejos clave**: Vincular CSS, usar selectores como `body { background-color: blue; }`.
 - **Práctica**: [Aplicar estilo con un clic](https://codepen.io/your-css-pen) 👈 **¡No es necesario registrarse!**
 
@@ -92,11 +92,11 @@ Al finalizar este curso serás capaz de:
 
 | Lección | Actividad           | Empezar a Programar                        |
 | ------- | ------------------- | ------------------------------------------ |
-| 1       | Explorar Sitios Web | [CodePen](https://codepen.io/your-lesson1) |
-| 2       | Primera página HTML | [CodePen](https://codepen.io/your-lesson2) |
-| 3       | Añadir imágenes     | [CodePen](https://codepen.io/your-lesson3) |
-| 4       | Estilo de la página | [CodePen](https://codepen.io/your-lesson4) |
-| 5       | Página de perfil    | [CodePen](https://codepen.io/your-lesson5) |
+| 1       | Explorar Sitios Web | [CodePen]([https://codepen.io/your-lesson1](https://codepen.io/Alessandro-Ramiro/pen/myPOaad)) |
+| 2       | Primera página HTML | [CodePen]([https://codepen.io/your-lesson2](https://codepen.io/Alessandro-Ramiro/pen/EaKNGGp)) |
+| 3       | Añadir imágenes     | [CodePen]([https://codepen.io/your-lesson3](https://codepen.io/Alessandro-Ramiro/pen/azNBPPa)) |
+| 4       | Estilo de la página | [CodePen]([https://codepen.io/your-lesson4](https://codepen.io/Alessandro-Ramiro/pen/QwNGzPv)) |
+| 5       | Página de perfil    | [CodePen]([https://codepen.io/your-lesson5](https://codepen.io/Alessandro-Ramiro/pen/ZYQdEoJ)) |
 
 ---
 
