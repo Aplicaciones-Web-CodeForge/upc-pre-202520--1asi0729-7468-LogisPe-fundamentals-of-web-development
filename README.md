@@ -92,11 +92,11 @@ Al finalizar este curso serás capaz de:
 
 | Lección | Actividad           | Empezar a Programar                        |
 | ------- | ------------------- | ------------------------------------------ |
-| 1       | Explorar Sitios Web | [CodePen]([https://codepen.io/your-lesson1](https://codepen.io/Alessandro-Ramiro/pen/myPOaad)) |
-| 2       | Primera página HTML | [CodePen]([https://codepen.io/your-lesson2](https://codepen.io/Alessandro-Ramiro/pen/EaKNGGp)) |
-| 3       | Añadir imágenes     | [CodePen]([https://codepen.io/your-lesson3](https://codepen.io/Alessandro-Ramiro/pen/azNBPPa)) |
-| 4       | Estilo de la página | [CodePen]([https://codepen.io/your-lesson4](https://codepen.io/Alessandro-Ramiro/pen/QwNGzPv)) |
-| 5       | Página de perfil    | [CodePen]([https://codepen.io/your-lesson5](https://codepen.io/Alessandro-Ramiro/pen/ZYQdEoJ)) |
+| 1       | Explorar Sitios Web | [CodePen](https://codepen.io/your-lesson1](https://codepen.io/Alessandro-Ramiro/pen/myPOaad ) |
+| 2       | Primera página HTML | [CodePen](https://codepen.io/your-lesson2](https://codepen.io/Alessandro-Ramiro/pen/EaKNGGp ) |
+| 3       | Añadir imágenes     | [CodePen](https://codepen.io/your-lesson3](https://codepen.io/Alessandro-Ramiro/pen/azNBPPa ) |
+| 4       | Estilo de la página | [CodePen](https://codepen.io/your-lesson4](https://codepen.io/Alessandro-Ramiro/pen/QwNGzPv ) |
+| 5       | Página de perfil    | [CodePen](https://codepen.io/your-lesson5](https://codepen.io/Alessandro-Ramiro/pen/ZYQdEoJ ) |
 
 ---
 
