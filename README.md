@@ -33,7 +33,7 @@ Al finalizar este curso serás capaz de:
 - **Descripción**: Aprende de qué están hechos los sitios web y por qué HTML y CSS son los componentes básicos.
 - **Enlace**: [Ver la lección](https://youtu.be/Ecw4gbsce6M)
 - **Consejos clave**: Sitios web = Contenido (HTML) + Estilo (CSS).
-- **Empieza a programar**: [Open CodePen]([https://codepen.io/pen/?template=your-starter](https://codepen.io/Katherine-Mejia-Aliaga/pen/myPRGBv))
+- **Empieza a programar**: [Open CodePen](https://codepen.io/)
 
 ---
 
