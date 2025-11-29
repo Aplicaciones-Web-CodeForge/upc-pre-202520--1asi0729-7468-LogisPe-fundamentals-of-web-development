@@ -9,7 +9,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 **🗒️ Prerrequisitos**: Ninguno
 **🛠️ Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
 
-**💻 Repositorio de código fuente**: [https://github.com/yourusername/webdev-courseteamname](https://github.com/yourusername/webdev-course-teamname)
+**💻 Repositorio de código fuente**: [https://github.com/Aplicaciones-Web-CodeForge/upc-pre-202520--1asi0730-7468-LogisPe-fundamentals-of-web-development]([https://github.com/yourusername/webdev-course-teamname](https://github.com/Aplicaciones-Web-CodeForge/upc-pre-202520--1asi0730-7468-LogisPe-fundamentals-of-web-development))
 
 ---
 
